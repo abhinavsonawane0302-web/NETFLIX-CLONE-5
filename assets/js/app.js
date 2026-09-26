@@ -2,18 +2,17 @@
 
 var cl =console.log;
 
-
-const addMovieBtn = document.getElementById("addMovieBtn")
-const movieContainer = document.getElementById("movieContainer")
-const movieform = document.getElementById("movieform")
-const moviename = document.getElementById("moviename")
-const imgurl = document.getElementById("imgurl")  
 const description = document.getElementById("description")
 const moviemodal = document.getElementById("moviemodal")
 const closemodalBtn = document.getElementById("closemodalBtn")
 const addmovie = document.getElementById("addmovie")
 const Updatebtn = document.getElementById("Updatebtn")
 const modaltitle = document.getElementById("modaltitle")
+const addMovieBtn = document.getElementById("addMovieBtn")
+const movieContainer = document.getElementById("movieContainer")
+const movieform = document.getElementById("movieform")
+const moviename = document.getElementById("moviename")
+const imgurl = document.getElementById("imgurl")  
 const rating = document.getElementById("rating")
 const Cancel = document.getElementById("Cancel")
 
